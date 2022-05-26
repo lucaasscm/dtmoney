@@ -1,8 +1,9 @@
 # dtmoney
 
-This application was developed using the concepts learned in ReactJs Ignite course by RocketSeat.
-I used the main React concepts to develop this app, like Components, Hooks (useState, useEffect), 
-Context and other resources to help in the development process, like MirageJs and Axios to help as our fake API.
+This application was developed on ReactJs Ignite course by RocketSeat.
+I used the main React concepts to develop this app, like Components, Hooks (useState, useEffect) and
+Context.
+I used other resources to help in the development process, like MirageJs and Axios as our fake API.
 
 I had a lot of fun and it helped me to increase my understanding on those important concepts of the framework.
 
